@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poynting-dev
 - 👀 I’m interested in Programming & Machhine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML
+- 💞️ I’m looking to collaborate on Anything
 
 
 <!---
