@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poynting-dev
-- 👀 I’m interested in Programming & Machhine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Programming & Machine Learning
+- 🌱 I’m currently learning Android Development & Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on Anything
 
 
