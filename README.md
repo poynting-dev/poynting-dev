@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poynting-dev
 - 👀 I’m interested in Programming & Machine Learning
-- 🌱 I’m currently learning Android Development & Machine Learning Algorithms
-- 💞️ I’m looking to collaborate on Anything
+- 🌱 I’m currently learning Web Development, Android Development & Machine Learning Algorithms
+- 💞️ I’m looking to collaborate on Anything😎
 
 
 <!---
