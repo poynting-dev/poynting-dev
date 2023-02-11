@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">
 - <h1>I’m Priyanshu Dixit a.k.a @poynting-dev</h1>
-- 👀 I’m interested in Programming & Machine Learning
-- 🌱 I’m currently learning Web Development & Machine Learning Algorithms
+- 👀 I’m interested in Programming & Web Devlopment
+- 🌱 I’m currently learning Full-Stack Web Development
 - 💞️ I’m looking to collaborate on Anything😎
 <!---
 poynting-dev/poynting-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
