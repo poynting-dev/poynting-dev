@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Priyanshu Dixit a.k.a poynting-dev😎</h1>
+<h1 align="center">Hi 👋, This is PD a.k.a poynting-dev😎</h1>
 <h3 align="center">Code crafter and problem solver, turning ideas into reality with a stroke of my keyboard.😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poynting-dev&label=Profile%20views&color=0e75b6&style=flat" alt="poynting-dev" /> </p>
